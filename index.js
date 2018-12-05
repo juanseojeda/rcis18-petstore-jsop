@@ -1,4 +1,4 @@
-// ******************
+// 
 // cabecera de cambios
 //
 'use strict';
