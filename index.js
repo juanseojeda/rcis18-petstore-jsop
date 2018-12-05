@@ -1,3 +1,6 @@
+// ******************
+// cabecera de cambios
+//
 'use strict';
 
 var fs = require('fs'),
